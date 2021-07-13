@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\bin\Debug\netcoreapp3.1\Whyle.exe
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\bin\Debug\netcoreapp3.1\Whyle.deps.json
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\bin\Debug\netcoreapp3.1\Whyle.runtimeconfig.json
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\bin\Debug\netcoreapp3.1\Whyle.runtimeconfig.dev.json
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\bin\Debug\netcoreapp3.1\Whyle.dll
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\bin\Debug\netcoreapp3.1\Whyle.pdb
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\obj\Debug\netcoreapp3.1\Whyle.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\obj\Debug\netcoreapp3.1\Whyle.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\obj\Debug\netcoreapp3.1\Whyle.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\obj\Debug\netcoreapp3.1\Whyle.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\obj\Debug\netcoreapp3.1\Whyle.dll
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\obj\Debug\netcoreapp3.1\Whyle.pdb
+C:\Users\Rodrigo\source\repos\Whyle\Whyle\obj\Debug\netcoreapp3.1\Whyle.genruntimeconfig.cache
