@@ -1,0 +1,16 @@
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\bin\Debug\net5.0\Pessoa.exe
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\bin\Debug\net5.0\Pessoa.deps.json
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\bin\Debug\net5.0\Pessoa.runtimeconfig.json
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\bin\Debug\net5.0\Pessoa.runtimeconfig.dev.json
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\bin\Debug\net5.0\Pessoa.dll
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\bin\Debug\net5.0\ref\Pessoa.dll
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\bin\Debug\net5.0\Pessoa.pdb
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\obj\Debug\net5.0\Pessoa.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\obj\Debug\net5.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\obj\Debug\net5.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\obj\Debug\net5.0\Pessoa.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\obj\Debug\net5.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\obj\Debug\net5.0\Pessoa.dll
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\obj\Debug\net5.0\ref\Pessoa.dll
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\obj\Debug\net5.0\Pessoa.pdb
+C:\Users\Rodrigo\source\repos\Pessoa\Pessoa\obj\Debug\net5.0\Pessoa.genruntimeconfig.cache
