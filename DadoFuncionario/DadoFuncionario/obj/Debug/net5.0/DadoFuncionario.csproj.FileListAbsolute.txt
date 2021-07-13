@@ -1,0 +1,16 @@
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\bin\Debug\net5.0\DadoFuncionario.exe
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\bin\Debug\net5.0\DadoFuncionario.deps.json
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\bin\Debug\net5.0\DadoFuncionario.runtimeconfig.json
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\bin\Debug\net5.0\DadoFuncionario.runtimeconfig.dev.json
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\bin\Debug\net5.0\DadoFuncionario.dll
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\bin\Debug\net5.0\ref\DadoFuncionario.dll
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\bin\Debug\net5.0\DadoFuncionario.pdb
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\obj\Debug\net5.0\DadoFuncionario.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\obj\Debug\net5.0\DadoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\obj\Debug\net5.0\DadoFuncionario.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\obj\Debug\net5.0\DadoFuncionario.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\obj\Debug\net5.0\DadoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\obj\Debug\net5.0\DadoFuncionario.dll
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\obj\Debug\net5.0\ref\DadoFuncionario.dll
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\obj\Debug\net5.0\DadoFuncionario.pdb
+C:\Users\Rodrigo\source\repos\DadoFuncionario\DadoFuncionario\obj\Debug\net5.0\DadoFuncionario.genruntimeconfig.cache

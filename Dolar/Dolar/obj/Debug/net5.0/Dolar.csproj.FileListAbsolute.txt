@@ -1,0 +1,16 @@
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\bin\Debug\net5.0\Dolar.exe
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\bin\Debug\net5.0\Dolar.deps.json
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\bin\Debug\net5.0\Dolar.runtimeconfig.json
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\bin\Debug\net5.0\Dolar.runtimeconfig.dev.json
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\bin\Debug\net5.0\Dolar.dll
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\bin\Debug\net5.0\ref\Dolar.dll
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\bin\Debug\net5.0\Dolar.pdb
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\obj\Debug\net5.0\Dolar.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\obj\Debug\net5.0\Dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\obj\Debug\net5.0\Dolar.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\obj\Debug\net5.0\Dolar.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\obj\Debug\net5.0\Dolar.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\obj\Debug\net5.0\Dolar.dll
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\obj\Debug\net5.0\ref\Dolar.dll
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\obj\Debug\net5.0\Dolar.pdb
+C:\Users\Rodrigo\source\repos\Dolar\Dolar\obj\Debug\net5.0\Dolar.genruntimeconfig.cache
