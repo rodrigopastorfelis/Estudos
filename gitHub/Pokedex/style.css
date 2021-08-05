@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+}
+.Fire {   
+    border-color: rgb(168, 88, 88); 
+    color: red; 
+    text-shadow: 1px 1px 2px black; 
+}
+
+.Grass{   
+    border-color: green;
+    color: green;
+    text-shadow: 1px 1px 2px black;
+}
+
+.Water {    
+    border-color: rgb(88, 88, 207);
+    color: royalblue;
+    text-shadow: 1px 1px 2px black;
+}
+
+.Normal {
+    border-color: rgb(250, 250, 250);
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
+.Poison{
+    border-color: rgb(82, 39, 126);
+    color: rgb(82, 39, 126);
+    text-shadow: 1px 1px 2px rgb(255, 0, 242);
+}
+
+.Eletric{
+    border-color: rgb(180, 177, 0);
+    color: rgb(180, 177, 0);
+    text-shadow: 1px 1px 2px rgb(139, 146, 33);
+}
+
+.Ground{
+    border-color: rgb(63, 62, 0);
+    color: rgb(24, 23, 0);
+    text-shadow: 1px 1px 2px rgb(24, 23, 0);
+
+}
+
+.Fairy{
+    border-color: rgb(252, 0, 227);
+    color: rgb(255, 0, 230);
+    text-shadow: 1px 1px 2px rgb(87, 15, 83);
+}
+
+img{
+    width: 200px ;
+    height: 200px;
+}
+
+h1{
+    border: dashed;
+    width: 160px;
+    background-color: white;
+    position:center;
+    margin-left: 10px;
+}
+h2{
+    border: dashed;
+    width: 50px;
+    background-color: white;
+    position:top;
+    margin-left: 20px;    
+}
+header{
+    display: table-cell;
+    position:static;
+    width: 150px;
+    margin-left: 10px;
+
+}
+
+button{
+    margin-left: 10px;
+    margin-top: 10px;
+    background-image: url("https://img.elo7.com.br/product/zoom/28E57D8/pokebola-eva.jpg");
+    background-size: 350px;
+    border-width: 150px;
+    border: outset;
+    border-width: 10px;
+    cursor: pointer;         
+}
